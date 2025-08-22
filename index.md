@@ -1,6 +1,5 @@
-# 👋 Welcome to Suren Jewels' Portfolio
-
-Cloud Infrastructure • Secure Systems • Automation • GIS • Federal Support
+<h1 align="center">👋 Welcome to Suren Jewels' Portfolio</h1>
+<p align="center"><strong>Cloud Infrastructure • Secure Systems • Automation • GIS • Federal Support</strong></p>
 
 Explore my flagship projects:
 - 🚀 [Kuiper EGSE Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
