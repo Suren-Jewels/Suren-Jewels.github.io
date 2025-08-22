@@ -70,6 +70,20 @@ GIS automation and ERP migration for 2M+ residents
 
 ---
 
+## 📚 What I'm Learning
+
+I'm actively expanding my cloud engineering practice with structured self-education and formal coursework. Current focus areas include:
+
+- Cloud Architecture & Services – Bellevue College (2025–2026)
+- Machine Learning fundamentals – starting Fall 2025
+- Infrastructure automation with PowerShell, Python, and SQL
+- Security and compliance frameworks (FedRAMP, IL4/IL5, NIST)
+- Technical writing and outcome-driven documentation
+
+I believe in continuous learning and applying knowledge to real-world systems that scale securely and efficiently.
+
+---
+
 ## 📬 Contact
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/surenjewels) or explore my [GitHub Profile](https://github.com/Suren-Jewels) for more.
