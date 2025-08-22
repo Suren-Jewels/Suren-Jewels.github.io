@@ -1,4 +1,4 @@
-<h1 align="center">🦅 Suren Jewels</h1>
+<h1 align="center">🗽🦅 Suren Jewels</h1>
 <p align="center"><strong>Cloud Infrastructure • Secure Systems • Automation • GIS • Federal Support</strong></p>
 
 <p align="center">
