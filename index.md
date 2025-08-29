@@ -66,7 +66,7 @@ GIS automation and ERP migration for 2M+ residents
 ## 📂 Portfolio Hub
 
 📘 [View Full Projects Index](https://github.com/Suren-Jewels/Projects)  
-📄 [Download My Resume](https://github.com/Suren-Jewels/Resume/blob/main/SurenJewels_Resume.pdf)
+📄 [Download My Resume](https://github.com/Suren-Jewels/Resume/blob/main/SurenJewels_Resume.pdf) Updated on Auguust 28, 2025
 
 ---
 
