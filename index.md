@@ -304,10 +304,10 @@ Result:    🌐 10 sites modernized • ✅ 200+ incidents resolved • 💰 $80
 
 | Institution | Program | Location |
 |-------------|---------|----------|
-| <img src="https://img.shields.io/badge/University_of_Washington-4B2E83?style=flat&logo=university&logoColor=white"/> | **Machine Learning Program** | Seattle, WA |
-| <img src="https://img.shields.io/badge/Bellevue_College-003366?style=flat&logo=college&logoColor=white"/> | **Cloud Architecture & Services** | Bellevue, WA |
-| <img src="https://img.shields.io/badge/IUST-C41E3A?style=flat&logo=university&logoColor=white"/> | **M.S. Software Engineering** | Tehran, Iran |
-| <img src="https://img.shields.io/badge/University_of_Arak-1E40AF?style=flat&logo=university&logoColor=white"/> | **B.S. Computer Science** | Arak, Iran |
+| <a href="https://www.washington.edu/about/seattle-campus/"><img src="https://img.shields.io/badge/University_of_Washington-4B2E83?style=flat&logo=university&logoColor=white"/></a> | **Machine Learning Program** | Seattle, WA |
+| <a href="https://www.bellevuecollege.edu/"><img src="https://img.shields.io/badge/Bellevue_College-003366?style=flat&logo=college&logoColor=white"/></a> | **Cloud Architecture & Services** | Bellevue, WA |
+| <a href="https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology"><img src="https://img.shields.io/badge/IUST-C41E3A?style=flat&logo=university&logoColor=white"/></a> | **M.S. Software Engineering** | Tehran, Iran |
+| <a href="https://en.wikipedia.org/wiki/Arak_University_of_Technology"><img src="https://img.shields.io/badge/University_of_Arak-1E40AF?style=flat&logo=university&logoColor=white"/></a> | **B.S. Computer Science** | Arak, Iran |
 
 ---
 
