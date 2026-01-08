@@ -1,5 +1,6 @@
 <h1 align="center">🗽🦅 Suren Jewels</h1>
-<p align="center"><strong>Cloud Infrastructure • Secure Systems • Automation • GIS • Federal Support</strong></p>
+<p align="center"><strong>Cloud Infrastructure • SRE • Security Engineer</strong></p>
+<p align="center"><strong>Azure • AWS • GCP | Automation • Zero Trust • Platform Engineering | Applied ML (UW)</strong></p>
 
 <p align="center">
   <img src="https://i.postimg.cc/YSVVtbKm/IMG-20230919-102237636.jpg" alt="Suren Jewels" width="150" style="border-radius: 50%;">
@@ -9,86 +10,83 @@
 
 ## 💼 About Me
 
-Cloud Infrastructure & Systems Engineer with deep experience in secure systems, automation, and enterprise-scale deployments.  
-Currently focused on building an authentic, outcome-driven GitHub portfolio while actively seeking new cloud support roles.  
-Starting Machine Learning studies this fall to expand into intelligent infrastructure.
+Cloud Infrastructure, SRE, and Security Engineer delivering secure, scalable, and highly available systems across aerospace, federal, and enterprise environments.  
+I design and operate hybrid and multi‑cloud platforms (Azure, AWS, GCP), automate infrastructure using Terraform, Python, PowerShell, and Bash, and implement Zero Trust–aligned security controls for IL4/IL5 and production fleets.
+
+My work spans satellite test infrastructure (Amazon Kuiper), IL4/IL5 secure access platforms (federal), and hybrid cloud capacity optimization (ServiceNow).  
+I’m currently expanding into applied machine learning at the University of Washington, connecting ML workflows with secure, scalable infrastructure.
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Featured Projects
 
-### 🛰️ Kuiper EGSE Deployment – Amazon
-Rack-level infrastructure for $10M+ aerospace initiative  
-🔗 [View Project](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
+### 🧰 Scripts‑Toolkit — Automation Toolkit  
+Cross‑platform automation toolkit built with **Python, PowerShell, Bash, JSON, YAML, and Terraform** for cloud, security, and systems engineering workflows.  
+🔗 https://github.com/Suren-Jewels/Scripts-Toolkit
 
-### 📊 ServiceNow Capacity Optimization
-Automated tuning across 1,000+ servers in 34 global PODs  
-🔗 [View Project](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)
+### 🛰️ Kuiper EGSE Deployment — Amazon  
+Rack‑level infrastructure supporting satellite test environments across Linux and Windows.  
+🔗 https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment
 
-### 📡 UPS Infrastructure Modernization
-VoIP & Wi-Fi upgrades across 200+ UPS facilities  
-🔗 [View Project](https://github.com/Suren-Jewels/UPS-Infrastructure-Modernization)
+### 📊 ServiceNow Capacity Optimization  
+Automated tuning across **1,000+ servers** in **34 global PODs**, recovering **$2M+** in unused assets.  
+🔗 https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization
 
-### 🔐 Federal Security Support
-IL4/IL5 weekend support, YubiKey enforcement, and endpoint compliance  
-🔗 [View Project](https://github.com/Suren-Jewels/Federal-Security-Support)
+### 🔐 Federal Security Support  
+IL4/IL5 secure access, YubiKey enforcement, endpoint compliance, and MFA/PAM hardening.  
+🔗 https://github.com/Suren-Jewels/Federal-Security-Support
 
-### 🔒 YubiKey & VDI Support – ServiceNow
-Automated provisioning and secure remote access for 5,000+ federal users  
-🔗 [View Project](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)
+### 🔒 YubiKey & VDI Support — ServiceNow  
+Automated provisioning and secure remote access for **5,000+ federal users**.  
+🔗 https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support
 
-### 🗺️ ERP & GIS Modernization – Tehran Municipality
-GIS automation and ERP migration for 2M+ residents  
-🔗 [View Project](https://github.com/Suren-Jewels/ERP-GIS-Modernization)
+### 🗺️ ERP & GIS Modernization — Tehran Municipality  
+GIS automation and ERP migration supporting **2M+ residents**.  
+🔗 https://github.com/Suren-Jewels/ERP-GIS-Modernization
 
 ---
 
 ## 🧰 Core Skills & Tools
 
-**Cloud Platforms**: AWS • Azure • Microsoft 365  
-**Security & Compliance**: FedRAMP • IL4/IL5 • CrowdStrike • BitLocker  
-**Automation & Scripting**: PowerShell • Python • Bash • SQL  
-**Identity & Access**: Okta • YubiKey • Active Directory • MFA  
-**Legacy Systems**: J2EE • Oracle • Rational Rose • UML • RUP
+**Cloud Platforms:** Azure • AWS • GCP • Microsoft 365  
+**Automation & IaC:** Terraform • Python • PowerShell • Bash • GitHub Actions • CI/CD  
+**Security & Compliance:** Zero Trust • FedRAMP IL4/IL5 • MFA • PAM • VPN • IAM  
+**Systems & Platforms:** Windows • Linux • VMware • DNS/DHCP • Intune • Jamf  
+**Tooling:** Scripts‑Toolkit (Python • PowerShell • Bash • JSON • YAML • Terraform)  
+**Containers (Familiar):** Docker • Kubernetes  
+**Legacy Systems:** J2EE • Oracle • UML • RUP
 
 ---
 
-## 📌 What I'm Working On Now
+## 📌 What I'm Working On
 
-- Building a transparent, outcome-driven GitHub portfolio  
-- Actively seeking new cloud support roles aligned with secure systems and automation  
-- Preparing to start Machine Learning studies this fall
-- Deepening expertise in Cloud Architecture and services through structured self-education
-- Reviewing and practicing online technical courses to reinforce hands-on proficiency
+- Expanding Scripts‑Toolkit with new automation modules  
+- Strengthening multi‑cloud architecture and SRE practices  
+- Integrating ML workflows with secure cloud infrastructure (UW Applied ML)  
+- Continuous improvement through structured cloud and security coursework  
+- Building a polished, outcome‑driven GitHub portfolio
 
 ---
 
 ## 📂 Portfolio Hub
 
-📘 [View Full Projects Index](https://github.com/Suren-Jewels/Projects)  
-📄 [Download My Resume](https://github.com/Suren-Jewels/Resume/blob/main/SurenJewels_Resume.pdf) Updated on Auguust 28, 2025
+📘 **Full Projects Index:** https://github.com/Suren-Jewels/Projects  
+📄 **Resume (Updated 2026):** https://github.com/Suren-Jewels/Resume/blob/main/SurenJewels_Resume.pdf  
 
 ---
 
 ## 📚 What I'm Learning
 
-I'm actively expanding my cloud engineering practice with structured self-education and formal coursework. Current focus areas include:
-
-- Cloud Architecture & Services – Bellevue College (2025–2026)
-- Machine Learning fundamentals – starting Fall 2025
-- Infrastructure automation with PowerShell, Python, and SQL
-- Security and compliance frameworks (FedRAMP, IL4/IL5, NIST)
-- Technical writing and outcome-driven documentation
-
-I believe in continuous learning and applying knowledge to real-world systems that scale securely and efficiently.
+- Applied Machine Learning — University of Washington  
+- Cloud Architecture & Services — Bellevue College  
+- Infrastructure automation (Terraform, Python, PowerShell, Bash)  
+- Security frameworks: FedRAMP • IL4/IL5 • NIST  
+- Technical writing and outcome‑driven documentation
 
 ---
 
 ## 📬 Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/surenjewels) or explore my [GitHub Profile](https://github.com/Suren-Jewels) for more.
+Connect with me on **LinkedIn**: https://www.linkedin.com/in/Suren-Jewels  
+Explore my **GitHub Profile**: https://github.com/Suren-Jewels
 
-<!-- Commit the change -->
-<!-- Deployment trigger -->
-<!-- Trigger clean deployment -->
-<!-- Clean deployment trigger -->
