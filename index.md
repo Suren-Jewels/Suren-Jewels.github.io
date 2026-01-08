@@ -43,58 +43,58 @@ Currently contributing to **applied machine learning platform integration** at t
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/> | `████████████████████` **Expert** | Multi-cloud architecture, M365, hybrid environments |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> | `██████████████████░░` **Advanced** | Cloud Practitioner certified, EC2, S3, IAM |
-| <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/> | `███████████████░░░░░` **Intermediate** | Enterprise essentials, compute, storage |
-| <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office&logoColor=white"/> | `████████████████░░░░` **Advanced** | M365 Administrator certified |
+| <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/> | <span style="color:#0078D4">**████████████████░░░░**</span> **Advanced** | Multi-cloud architecture, M365, hybrid environments |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> | <span style="color:#FF9900">**█████████████░░░░░░░**</span> **Moderate** | Cloud Practitioner certified, EC2, S3, IAM |
+| <img src="https://img.shields.io/badge/GCP-34A853?style=flat&logo=google-cloud&logoColor=white"/> | <span style="color:#34A853">**██████████░░░░░░░░░░**</span> **Practical** | Recently learned, compute, storage basics |
+| <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office&logoColor=white"/> | <span style="color:#D83B01">**████████████████░░░░**</span> **Advanced** | M365 Administrator certified |
 
 ### **🤖 Automation & Infrastructure as Code**
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/> | `████████████████████` **Expert** | Associate certified, production IaC |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> | `███████████████████░` **Expert** | Automation, scripting, ML integration |
-| <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/> | `██████████████████░░` **Advanced** | Windows automation, Azure management |
-| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> | `██████████████████░░` **Advanced** | Linux automation, deployment scripts |
-| <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/> | `████████████████░░░░` **Advanced** | CI/CD pipelines, workflow automation |
+| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/> | <span style="color:#7B42BC">**█████████████░░░░░░░**</span> **Moderate** | Associate certified, practical IaC experience |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> | <span style="color:#3776AB">**███████████████████░**</span> **Expert** | Automation, scripting, ML integration |
+| <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/> | <span style="color:#5391FE">**██████████████████░░**</span> **Advanced** | Windows automation, Azure management |
+| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> | <span style="color:#4EAA25">**██████████████████░░**</span> **Advanced** | Linux automation, deployment scripts |
+| <img src="https://img.shields.io/badge/GitHub_Actions-181717?style=flat&logo=github-actions&logoColor=white"/> | <span style="color:#181717">**████████████████░░░░**</span> **Advanced** | CI/CD pipelines, workflow automation |
 
 ### **🔒 Security & Compliance**
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| <img src="https://img.shields.io/badge/Zero_Trust-00A4EF?style=flat&logo=security&logoColor=white"/> | `████████████████████` **Expert** | Architecture implementation, IL4/IL5 |
-| <img src="https://img.shields.io/badge/IAM/MFA/PAM-FF6B6B?style=flat&logo=auth0&logoColor=white"/> | `████████████████████` **Expert** | YubiKey, Okta, enterprise authentication |
-| <img src="https://img.shields.io/badge/FedRAMP-0052CC?style=flat&logo=government&logoColor=white"/> | `███████████████████░` **Expert** | IL4/IL5 compliance, federal environments |
-| <img src="https://img.shields.io/badge/NIST-1E3A8A?style=flat&logo=shield&logoColor=white"/> | `██████████████████░░` **Advanced** | Framework implementation, controls |
-| <img src="https://img.shields.io/badge/Endpoint_Security-8B5CF6?style=flat&logo=security&logoColor=white"/> | `███████████████████░` **Expert** | Intune, Jamf, device management |
+| <img src="https://img.shields.io/badge/Zero_Trust-00A4EF?style=flat&logo=security&logoColor=white"/> | <span style="color:#00A4EF">**████████████████████**</span> **Expert** | Architecture implementation, IL4/IL5 |
+| <img src="https://img.shields.io/badge/IAM/MFA/PAM-FF6B6B?style=flat&logo=auth0&logoColor=white"/> | <span style="color:#FF6B6B">**████████████████████**</span> **Expert** | YubiKey, Okta, enterprise authentication |
+| <img src="https://img.shields.io/badge/FedRAMP-DC143C?style=flat&logo=government&logoColor=white"/> | <span style="color:#DC143C">**██████████████████░░**</span> **Advanced** | IL4/IL5 compliance, federal environments |
+| <img src="https://img.shields.io/badge/NIST-1E3A8A?style=flat&logo=shield&logoColor=white"/> | <span style="color:#1E3A8A">**██████████████████░░**</span> **Advanced** | Framework implementation, controls |
+| <img src="https://img.shields.io/badge/Endpoint_Security-8B5CF6?style=flat&logo=security&logoColor=white"/> | <span style="color:#8B5CF6">**███████████████████░**</span> **Expert** | Intune, Jamf, device management |
 
 ### **🔐 Identity & Access Management**
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| <img src="https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white"/> | `████████████████████` **Expert** | SSO, federation, identity governance |
-| <img src="https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white"/> | `████████████████████` **Expert** | Hardware tokens, MFA implementation |
-| <img src="https://img.shields.io/badge/Entra_ID/AD-0078D4?style=flat&logo=microsoft&logoColor=white"/> | `████████████████████` **Expert** | Directory services, hybrid identity |
-| <img src="https://img.shields.io/badge/RBAC-FF9800?style=flat&logo=permissions&logoColor=white"/> | `███████████████████░` **Expert** | Role-based access control, policies |
+| <img src="https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white"/> | <span style="color:#007DC1">**████████████████████**</span> **Expert** | SSO, federation, identity governance |
+| <img src="https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white"/> | <span style="color:#84BD00">**████████████████████**</span> **Expert** | Hardware tokens, MFA implementation |
+| <img src="https://img.shields.io/badge/Entra_ID/AD-0078D4?style=flat&logo=microsoft&logoColor=white"/> | <span style="color:#0078D4">**████████████████████**</span> **Expert** | Directory services, hybrid identity |
+| <img src="https://img.shields.io/badge/RBAC-FF9800?style=flat&logo=permissions&logoColor=white"/> | <span style="color:#FF9800">**███████████████████░**</span> **Expert** | Role-based access control, policies |
 
 ### **🛠️ Enterprise & DevOps Tools**
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=flat&logo=servicenow&logoColor=white"/> | `████████████████████` **Expert** | ITSM, capacity mgmt, 1000+ servers |
-| <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white"/> | `███████████████████░` **Expert** | Project management, agile workflows |
-| <img src="https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/> | `████████████████████` **Expert** | Device management, Windows/Android |
-| <img src="https://img.shields.io/badge/Jamf-000000?style=flat&logo=jamf&logoColor=white"/> | `██████████████████░░` **Advanced** | macOS/iOS management |
-| <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/> | `███████████████░░░░░` **Intermediate** | Virtualization, vSphere |
+| <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=flat&logo=servicenow&logoColor=white"/> | <span style="color:#00A1E0">**████████████████████**</span> **Expert** | ITSM, capacity mgmt, 1000+ servers |
+| <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white"/> | <span style="color:#0052CC">**███████████████████░**</span> **Expert** | Project management, agile workflows |
+| <img src="https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/> | <span style="color:#0078D4">**████████████████████**</span> **Expert** | Device management, Windows/Android |
+| <img src="https://img.shields.io/badge/Jamf-000000?style=flat&logo=jamf&logoColor=white"/> | <span style="color:#000000">**██████████████████░░**</span> **Advanced** | macOS/iOS management |
+| <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/> | <span style="color:#607078">**███████████████░░░░░**</span> **Intermediate** | Virtualization, vSphere |
 
 ### **🧠 Machine Learning & Emerging Tech**
 
 | Technology | Proficiency | Status |
 |------------|-------------|--------|
-| <img src="https://img.shields.io/badge/Applied_ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> | `████████░░░░░░░░░░░░` **Learning** | University of Washington program |
-| <img src="https://img.shields.io/badge/Python_ML-3776AB?style=flat&logo=python&logoColor=white"/> | `████████████░░░░░░░░` **Intermediate** | ML workflows, infrastructure integration |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> | `████████████░░░░░░░░` **Familiar** | Containerization basics |
-| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> | `████████░░░░░░░░░░░░` **Familiar** | Container orchestration concepts |
+| <img src="https://img.shields.io/badge/Applied_ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> | <span style="color:#FF6F00">**████████░░░░░░░░░░░░**</span> **Learning** | University of Washington program |
+| <img src="https://img.shields.io/badge/Python_ML-3776AB?style=flat&logo=python&logoColor=white"/> | <span style="color:#3776AB">**████████████░░░░░░░░**</span> **Intermediate** | ML workflows, infrastructure integration |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> | <span style="color:#2496ED">**████████████░░░░░░░░**</span> **Familiar** | Containerization basics |
+| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> | <span style="color:#326CE5">**████████░░░░░░░░░░░░**</span> **Familiar** | Container orchestration concepts |
 
 ---
 
@@ -195,7 +195,7 @@ Result:    💰 $2M+ recovery • 📈 32% utilization improvement • 🎯 99.8
 ### 🛡️ **IL4/IL5 Secure Access Platform — Federal**
 **FedRAMP-Compliant Authentication & Device Provisioning** | *Dec 2023 - Jun 2024*
 
-<img src="https://img.shields.io/badge/FedRAMP-0052CC?style=flat&logo=government&logoColor=white"/> <img src="https://img.shields.io/badge/Zero_Trust-00A4EF?style=flat&logo=security&logoColor=white"/> <img src="https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white"/> <img src="https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Jamf-000000?style=flat&logo=jamf&logoColor=white"/>
+<img src="https://img.shields.io/badge/FedRAMP-DC143C?style=flat&logo=government&logoColor=white"/> <img src="https://img.shields.io/badge/Zero_Trust-00A4EF?style=flat&logo=security&logoColor=white"/> <img src="https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white"/> <img src="https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Jamf-000000?style=flat&logo=jamf&logoColor=white"/>
 ```
 Challenge: Secure federal access for 500+ users with strict IL4/IL5 compliance
 Solution:  Automated provisioning + Zero Trust controls + MFA/PAM implementation
@@ -274,7 +274,7 @@ Result:    🌐 10 sites modernized • ✅ 200+ incidents resolved • 💰 $80
 ### ☁️ **Cloud & Multi-Cloud**
 - <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> Cloud Practitioner
 - <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/> Fundamentals
-- <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/> Enterprise Essentials
+- <img src="https://img.shields.io/badge/GCP-34A853?style=flat&logo=google-cloud&logoColor=white"/> Enterprise Essentials
 - <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/> Associate
 - <img src="https://img.shields.io/badge/CompTIA-E63946?style=flat&logo=comptia&logoColor=white"/> Cloud+
 
