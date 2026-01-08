@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📍 Greater Seattle Area, WA • 🇺🇸 U.S. Citizen<br/>
+  📍 Greater Seattle Area, WA • 🇺🇸 | U.S. Citizen<br/>
   📧 SurenJewelsPro@gmail.com • 📱 +1 (206) 356-6900
 </p>
 
