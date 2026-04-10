@@ -35,6 +35,69 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 
 ---
 
+## 🧠 Technical Skills Matrix
+
+### **Cloud & Infrastructure**
+- Azure (Primary)
+- AWS
+- GCP
+- Microsoft 365
+- Hybrid Identity (Entra ID / AD)
+- Linux • Windows • VDI
+
+### **Automation & IaC**
+- Python
+- PowerShell
+- Bash
+- Terraform
+- GitHub Actions
+- CI/CD Workflows
+
+### **Security & Compliance**
+- Zero Trust Architecture
+- IAM • MFA • PAM
+- FedRAMP IL4/IL5
+- NIST Frameworks
+- Endpoint Security (Intune, Jamf)
+
+### **Identity & Access**
+- Okta
+- YubiKey
+- Entra ID / Active Directory
+- RBAC
+- Conditional Access
+- VPN & Secure Remote Access
+
+### **Enterprise & SRE Tooling**
+- ServiceNow
+- Intune
+- Jamf
+- VMware
+- JIRA
+- Monitoring • HA • DR • Capacity Engineering
+
+---
+
+## 📊 Impact Dashboard
+
+### **Scale & Reliability**
+- **1,000+ servers** managed across 34 PODs  
+- **99.8% uptime** across IL4/IL5 and production systems  
+- **500+ federal users** supported in secure environments  
+
+### **Performance & Optimization**
+- **32% improvement** in hybrid cloud utilization  
+- **$2M+** in unused assets recovered  
+- **40% faster** onboarding for satellite test systems (Kuiper)  
+- **45% faster** provisioning via Intune/Jamf automation  
+
+### **Enterprise Operations**
+- **200+ critical incidents** resolved  
+- **15+ governance policies** authored  
+- **10 enterprise sites** modernized (Wi‑Fi/VoIP)  
+
+---
+
 # 🚀 Featured Projects
 
 ## 🛰️ Amazon Project Kuiper — EGSE Deployment  
