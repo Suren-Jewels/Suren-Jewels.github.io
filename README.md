@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Suren A. Jewels</h1>
-<h3 align="center">Cloud & Systems Engineer | IL4/IL5 GovCloud | Identity & Access | Automation | Azure • AWS • ServiceNow</h3>
+<h3 align="center">Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | Identity & Automation | 1,000+ Server Environments</h3>
 
 <p align="center">
   <strong>Azure • AWS • ServiceNow | Zero Trust • SRE • Infrastructure | Applied ML (UW)</strong>
