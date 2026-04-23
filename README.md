@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" width="100%" alt="Suren Jewels Banner"/>
 </p>
 
-<h1 align="center">🗽 Suren A. Jewels</h1>
+<h1 align="center">Suren A. Jewels</h1>
 <h3 align="center">Cloud & Systems Engineer | IL4/IL5 GovCloud | Identity & Access | Automation | Azure • AWS • ServiceNow</h3>
 
 <p align="center">
