@@ -18,7 +18,7 @@
 
 ---
 
-# 💼 Professional Summary
+# Professional Summary
 
 Cloud & Systems Engineer with experience supporting **aerospace**, **federal IL4/IL5**, and **enterprise** environments.  
 I build and operate secure, scalable infrastructure across **Azure, AWS, and ServiceNow**, automate workflows using **Python, PowerShell, and Terraform**, and implement **Zero Trust–aligned identity and access controls**.
@@ -35,7 +35,7 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 
 ---
 
-## 🧠 Technical Skills Matrix
+## Technical Skills Matrix
 
 ### **Cloud & Infrastructure**
 - Azure (Primary)
@@ -78,7 +78,7 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 
 ---
 
-## 📊 Impact Dashboard
+## Impact Dashboard
 
 ### **Scale & Reliability**
 - **1,000+ servers** managed across 34 PODs  
@@ -98,9 +98,9 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🛰️ Amazon Project Kuiper — EGSE Deployment  
+## Amazon Project Kuiper — EGSE Deployment  
 **Mission‑critical satellite test infrastructure**
 
 - Standardized 8‑phase deployment workflow  
@@ -108,11 +108,11 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 - Reduced onboarding time **40%**  
 - Supported Linux/Windows EGSE systems  
 
-🔗 **Repo:** https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment
+**Repo:** https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment
 
 ---
 
-## 📊 ServiceNow — Hybrid Cloud Capacity Optimization  
+## ServiceNow — Hybrid Cloud Capacity Optimization  
 **Fleet‑scale resource & cost management**
 
 - Managed **1,000+ servers** across **34 PODs**  
@@ -120,11 +120,11 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 - Recovered **$2M+** in unused assets  
 - Stabilized RHEL8 upgrade path  
 
-🔗 **Repo:** https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization
+**Repo:** https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization
 
 ---
 
-## 🛡️ Federal IL4/IL5 — Secure Access Platform  
+## Federal IL4/IL5 — Secure Access Platform  
 **FedRAMP‑aligned identity & device provisioning**
 
 - Supported **500+ federal users**  
@@ -132,22 +132,22 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 - Implemented MFA, PAM, VPN, compliance controls  
 - Maintained **99.8% uptime**  
 
-🔗 **Repo:** https://github.com/Suren-Jewels/Federal-Security-Support
+**Repo:** https://github.com/Suren-Jewels/Federal-Security-Support
 
 ---
 
-## 🧰 Scripts Toolkit — Automation & SRE Utilities  
+## Scripts Toolkit — Automation & SRE Utilities  
 **Reusable automation for cloud, security, and systems**
 
 - Python, PowerShell, Bash, Terraform  
 - Log parsing, validation, bulk operations  
 - Production‑ready patterns  
 
-🔗 **Repo:** https://github.com/Suren-Jewels/Scripts-Toolkit
+**Repo:** https://github.com/Suren-Jewels/Scripts-Toolkit
 
 ---
 
-# 📊 Impact Snapshot
+# Impact Snapshot
 
 | Area | Result |
 |------|--------|
@@ -162,7 +162,7 @@ I focus on **stability, security, automation, and reliability** across multi‑c
 
 ---
 
-# 🧠 Core Skills
+# Core Skills
 
 ### **Cloud & Infrastructure**
 Azure • AWS • GCP • M365 • Hybrid Identity • VDI • Linux • Windows
@@ -181,7 +181,7 @@ ServiceNow • Intune • Jamf • VMware • JIRA
 
 ---
 
-# 🎓 Education & Certifications
+# Education & Certifications
 
 ### **Education**
 - University of Washington — Applied Machine Learning  
@@ -199,7 +199,7 @@ ServiceNow • Intune • Jamf • VMware • JIRA
 
 ---
 
-# 📬 Contact
+# Contact
 
 <p align="center">
   <a href="https://github.com/Suren-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
